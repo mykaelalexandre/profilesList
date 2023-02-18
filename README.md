@@ -1,3 +1,10 @@
+#Start here
+
+A escolha da arquitetura do projeto foi baseada na necessidade de criar uma aplicação simples e escalável, usando o React e o TypeScript. O React é uma biblioteca popular para criação de interfaces de usuário, que permite a criação de componentes reutilizáveis e a construção de interfaces de usuário declarativas. O TypeScript é uma linguagem de programação que adiciona tipagem estática ao JavaScript, tornando o código mais fácil de ser mantido e testado.
+
+A escolha do design foi baseada em uma interface simples e limpa, que pudesse exibir as informações relevantes do perfil do usuário do GitHub. Foi usado o Material UI como biblioteca de componentes, que é uma biblioteca popular que fornece componentes pré-estilizados e personalizáveis, facilitando a construção de interfaces de usuário com uma aparência consistente e agradável. A escolha de cores foi baseada em uma paleta de cores suaves, que não distrai o usuário do conteúdo principal da aplicação. Além disso, foram adicionados estilos personalizados para tornar a interface mais atraente e responsiva em diferentes dispositivos.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
